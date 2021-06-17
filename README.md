@@ -6,4 +6,3 @@
 
 ## Description
 This is My ReactJS based personal resume Portfolio. 
-# portfolio

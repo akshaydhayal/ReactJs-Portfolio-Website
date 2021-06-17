@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Akshay Dhayal",
+    "occupation": "Software and ML Engineer",
+    "description": "Full Stack Web Developer and Machine Learning Engineer.",
+    "image": "Akshay.jpeg",
+    "bio": "My name is Akshay, I'm a Full Stack ReactJS Web and ML Developer. Currently I'm studying Computer Science at NITK Surathkal College .",
+    "contactmessage": "Get in touch with me to work for exciting Web and Neural Network Projects.",
+    "email": "admin@neurl.tech",
+    "phone": "0000000000",
+    "address": {
+      "street": "NITK Surathkal",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "zip": "575025"
+    },
+    "website": "http://www.neurl.tech",
+    "resumedownload": "https://drive.google.com/file/d/1zoTKVhg0rD8XXaHsW2J4crMht8nPzR6A/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/akshaydhayal99/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akshay-dhayal/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akshay_dhayal/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/akshaydhayal",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "National Institute of Technology, Surathkal",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2022",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Neurl.tech",
+        "title": "Founder/Web and ML developer",
+        "years": "Jan 2021 - Present",
+        "description": "Transforming the lives of people by building new and exciting AI and Neural Technologies."
+      },
+      {
+        "company": "Coitopedia",
+        "title": "Web Developer",
+        "years": "Sept 2022 - Nov 2020",
+        "description": "A good initiative to educate the people"
+      }
+    ],
+    "skills": [
+       {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+    
+      {
+        "name": "Neural Networks and Models",
+        "level": "95%"
+      },
+      {
+        "name": "C / C++",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fake News Detection Using Hybrid CNN-RNN Model",
+        "image": "fake-news-ml.gif",
+        "url": "https://github.com/akshaydhayal/Fake-News-Detection-Using-Hybrid-CNN-RNN-Model"
+      },
+      {
+        "title": "Blockchain Based E-Voting Simulation",
+       
+        "image": "blockchain-e-vote.png",
+        "url": "https://github.com/akshaydhayal/Blockchain-E-Voting"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
